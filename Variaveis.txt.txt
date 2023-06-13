@@ -15,9 +15,10 @@ class Program
         
         int idade = 21; 
         string nome = "Rafael Naoki Inoue Yasue";
-        double valor = 1000.50
+        double valor = 1000.50;
         bool status = true; 
-        
+        char = 'A";
+
         Console.WriteLine($"O usuario {nome} tem {idade} anos.");
     }
 }
