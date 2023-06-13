@@ -1,0 +1,23 @@
+/* Online C# Compiler and Editor */
+using System.IO;
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        //Comentário de linha 
+        
+        /* Comentário de múltipla linha
+            Pipipi
+            Popopo
+        */
+        
+        int idade = 21; 
+        string nome = "Rafael Naoki Inoue Yasue";
+        double valor = 1000.50
+        bool status = true; 
+        
+        Console.WriteLine($"O usuario {nome} tem {idade} anos.");
+    }
+}
